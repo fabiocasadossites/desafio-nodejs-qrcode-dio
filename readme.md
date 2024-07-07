@@ -62,6 +62,5 @@ Este projeto consiste na construção de uma aplicação web para geração de Q
 </p>
 <br/>
 <p>
-<hr>
 
 💻 com ❤️ por [Fabio Augusto](https://github.com/fabiocasadossites)
