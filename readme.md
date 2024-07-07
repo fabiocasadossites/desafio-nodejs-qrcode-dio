@@ -27,16 +27,16 @@ Este projeto consiste na construção de uma aplicação web para geração de Q
    npm update
    ```
 
-   ou
-
-   ```bash
-   node --env-file=.env src/index.js
-   ```
-
 4. Rodar o projeto
 
    ```bash
    npm run start
+   ```
+
+   ou
+
+   ```bash
+   node --env-file=.env src/index.js
    ```
 
 <br>
